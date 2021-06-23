@@ -1,0 +1,10 @@
+{
+  "name": "bities",
+  "version": "1.0.0",
+  "description": "building a css framework",
+  "author": "Helena Strada",
+  "scripts": {
+    "compile": "sass sass/main.scss css/main.css",
+    "watch": "sass --watch .\\sass\\main.scss:.\\css\\main.css"
+  }
+}
